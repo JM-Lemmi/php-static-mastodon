@@ -1,0 +1,7 @@
+{
+    "@context": "https://www.w3.org/ns/activitystreams",
+    "id": "https://blog.julian-lemmerich.de/activitypub/following.json",
+    "type": "OrderedCollection",
+    "totalItems": 1,
+    "first": "https://mastodon.jgarr.net/following_accts"
+}

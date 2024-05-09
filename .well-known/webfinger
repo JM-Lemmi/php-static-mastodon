@@ -1,0 +1,15 @@
+{
+    "subject": "acct:blog@blog.julian-lemmerich.de",
+    "links": [
+        {
+            "rel": "self",
+            "type": "application/activity+json",
+            "href": "https://blog.julian-lemmerich.de/activitypub/actor.json"
+        },
+        {
+            "rel": "http://webfinger.net/rel/profile-page",
+            "type": "text/html",
+            "href": "https://blog.julian-lemmerich.de/"
+        }
+    ]
+}

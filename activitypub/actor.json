@@ -1,0 +1,14 @@
+{
+    "@context": "https://www.w3.org/ns/activitystreams",
+    "id": "https://blog.julian-lemmerich.de/activitypub/actor.json",
+    "type": "Service",
+    "following": "https://blog.julian-lemmerich.de/activitypub/following.json",
+    "followers": "https://blog.julian-lemmerich.de/activitypub/followers.json",
+    "inbox": "https://blog.julian-lemmerich.de/activitypub/inbox",
+    "preferredUsername": "jmlemmiblog",
+    "name": "Julian Lemmerichs Blog",
+    "summary": "Personal blog by Julian Lemmerich.",
+    "url": "https://blog.julian-lemmerich.de",
+    "discoverable": true,
+    "published": "2024-05-09T00:00:00Z"
+}
