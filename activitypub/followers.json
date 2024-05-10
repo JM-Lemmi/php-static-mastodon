@@ -1,7 +1,0 @@
-{
-    "@context": "https://www.w3.org/ns/activitystreams",
-    "id": "https://blog.julian-lemmerich.de/activitypub/followers.json",
-    "type": "OrderedCollection",
-    "totalItems": 1000000,
-    "first": "https://blog.julian-lemmerich.de/activitypub/follower_accts.json"
-}
