@@ -1,0 +1,9 @@
+{
+  "version": "1",
+  "name": "Activitypub",
+  "type": "collection",
+  "ignore": [
+    "node_modules",
+    ".git"
+  ]
+}

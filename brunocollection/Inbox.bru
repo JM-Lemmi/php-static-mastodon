@@ -1,0 +1,21 @@
+meta {
+  name: Inbox
+  type: http
+  seq: 5
+}
+
+post {
+  url: https://blog.julian-lemmerich.de/activitypub/inbox.php
+  body: json
+  auth: none
+}
+
+body:json {
+  {
+    "@context": "https://www.w3.org/ns/activitystreams",
+    "id": "https://mastodon.social/64527582-3605-4d19-ac99-6715df3b0707",
+    "type": "Follow",
+    "actor": "https://infosec.exchange/@jmlemmi",
+    "object": "https://blog.julian-lemmerich.de/activitypub/actor.json"
+  }
+}
