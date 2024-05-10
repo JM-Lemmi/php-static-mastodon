@@ -1,3 +1,4 @@
+<?php header('Content-Type: application/activity+json'); ?>
 <?php
 
 // Get the JSON data from the POST request

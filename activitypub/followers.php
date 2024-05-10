@@ -1,3 +1,4 @@
+<?php header('Content-Type: application/activity+json'); ?>
 {
     "@context": "https://www.w3.org/ns/activitystreams",
     "id": "https://blog.julian-lemmerich.de/activitypub/followers.php",
